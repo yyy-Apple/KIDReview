@@ -6,10 +6,12 @@ This is the repo for the paper [KID-REVIEW: Knowledge-GuIdeD Scientific Review G
 Requirements for all the libraries are in the **requirements.txt**, please use the right version for each library in order to reproduce our results.
 
 # Dataset
-Run the command below to download our dataset.
+Run the command below to download and prepare our dataset, or use [this link](https://drive.google.com/file/d/1DhL8WJouWnnoN0XkTP7t_P_dDQUFNxko/view?usp=sharing) to download directly and uncompress the `data.zip` into a `data` folder.
 ```
 sh prepare_data.sh
 ```
+
+
 
 
 # Finetune
