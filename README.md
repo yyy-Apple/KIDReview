@@ -1,6 +1,6 @@
 <img src="./files/kid.jpeg" width="150" class="center"><img src="./files/font.png" width="500" class="left">
 
-This is the repo for the paper [KID-REVIEW: Knowledge-GuIdeD Scientific Review Generation with Oracle Pre-training]()
+This is the repo for the paper [KID-REVIEW: Knowledge-GuIdeD Scientific Review Generation with Oracle Pre-training](https://ojs.aaai.org/index.php/AAAI/article/view/21418)
 
 # Requirements
 Requirements for all the libraries are in the **requirements.txt**, please use the right version for each library in order to reproduce our results.
